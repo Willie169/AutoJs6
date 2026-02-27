@@ -1,5 +1,11 @@
 {
   "$data": {
+    "v6.6.5": {
+      "released_date": "2026/02/27",
+      "fix": [
+        "Adaptación a los cambios en el modelo de permisos Bluetooth de Android 12+."
+      ]
+    },
     "v6.6.4": {
       "released_date": "2025/05/31",
       "hint": [

@@ -1,5 +1,11 @@
 {
   "$data": {
+    "v6.6.5": {
+      "released_date": "2026/02/27",
+      "fix": [
+        "Android 12 이상 Bluetooth 권한 모델 변경에 대응."
+      ]
+    },
     "v6.6.4": {
       "released_date": "2025/05/31",
       "hint": [
